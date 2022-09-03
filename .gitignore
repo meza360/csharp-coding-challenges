@@ -1,0 +1,6 @@
+**/.vscode
+**/.env
+**/bin
+**/obj
+**/Debug
+**/Release
